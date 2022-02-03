@@ -32,3 +32,4 @@ and pull requests:
   get into the codebase. The build will fail if SpotBugs finds an issue.
 * [Checkstyle](http://checkstyle.sourceforge.net/): ensures that your code is
   correctly formatted. The build will fail if Checkstyle detects a problem.
+
